@@ -244,6 +244,7 @@ button:focus {
 	float: left;
 	text-align: center;
 	width: 100%;
+	padding: 20px
 }
 
 .mu-logo {
@@ -252,8 +253,8 @@ button:focus {
 	display: inline-block;
 	font-weight: 600;
 	background: #fff;
-	padding: 5px 20px;
-	margin-bottom: 30px;
+	padding: 0px 0px;
+	margin-bottom: 10px;
 }
 
 .mu-message-img-area {
@@ -305,7 +306,7 @@ button:focus {
 .mu-hero-featured-area {
 	display: inline;
 	float: left;
-	padding: 60px 0 150px;
+	padding: 0px 0 150px;
 	width: 100%;
 }
 
@@ -332,12 +333,12 @@ button:focus {
 }
 
 .mu-event-date-line {
-	background-color: #fff;
-	color: #333;
-	padding: 5px 10px;
+	background-color:;
+	color: #fff;
+	padding: 0px 0px;
 	display: inline-block;
 	margin-top: 10px;
-	font-weight: 600;
+	font-weight: 500;
 }
 
 .mu-event-counter-area {
@@ -968,7 +969,7 @@ button:focus {
 }
 
 .mu-single-price-head .mu-rate {
-	font-size: 60px;
+	font-size: 40px;
 	font-weight: bold;
 	line-height: 0.9;
 	letter-spacing: 3px;
@@ -1038,7 +1039,7 @@ button:focus {
 /*--------------------*/
 
 #mu-register {
-	background-image: url("assets/images/nitr-bg.jpg");
+	background-image: url("assets/images/register-bg.jpg");
 	background-position: center center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -1471,15 +1472,15 @@ button:focus {
 	}
 
 	.mu-hero-featured-content h1 {
-		font-size: 35px;
+		font-size: 40px;
 	}
 
 	.mu-hero-featured-content h2 {
-		font-size: 18px;
+		font-size: 25px;
 	}
 
 	.mu-event-date-line {
-		font-size: 14px;
+		font-size: 20px;
 	}
 
 	.mu-event-counter-block {
@@ -1579,7 +1580,7 @@ button:focus {
 @media (max-width: 767px) {
 
 	.mu-logo img {
-		width: 118px;
+		width: 130px;
 	}
 
 	.mu-message-img img {
@@ -1670,15 +1671,15 @@ button:focus {
 	}
 
 	.mu-hero-featured-content h1 {
-		font-size: 25px;
+		font-size: 30px;
 	}
 
 	.mu-hero-featured-content h2 {
-		font-size: 14px;
+		font-size: 22px;
 	}
 
 	.mu-event-date-line {
-		font-size: 12px;
+		font-size: 18px;
 	}
 
 	.mu-event-counter-area {
@@ -1783,7 +1784,7 @@ button:focus {
 @media (max-width: 360px) {
 
 	.mu-logo img {
-		width: 120px;
+		width: 130px;
 	}
 
 	.mu-message-img img {
